@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\MoonEyE\MoonEyE\bin\Debug\MoonEyE.exe.config
+C:\Users\User\source\repos\MoonEyE\MoonEyE\bin\Debug\MoonEyE.exe
+C:\Users\User\source\repos\MoonEyE\MoonEyE\bin\Debug\MoonEyE.pdb
+C:\Users\User\source\repos\MoonEyE\MoonEyE\obj\Debug\MoonEyE.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MoonEyE\MoonEyE\obj\Debug\MoonEyE.Form1.resources
+C:\Users\User\source\repos\MoonEyE\MoonEyE\obj\Debug\MoonEyE.Properties.Resources.resources
+C:\Users\User\source\repos\MoonEyE\MoonEyE\obj\Debug\MoonEyE.csproj.GenerateResource.cache
+C:\Users\User\source\repos\MoonEyE\MoonEyE\obj\Debug\MoonEyE.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MoonEyE\MoonEyE\obj\Debug\MoonEyE.exe
+C:\Users\User\source\repos\MoonEyE\MoonEyE\obj\Debug\MoonEyE.pdb
